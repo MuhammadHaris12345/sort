@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding ="utf-8" ?>
+<?xml-stylesheet type="text/xsl"  href="ok.xsl"?>
+<personData>
+    <user1>
+        <fname>Assad</fname>
+        <lname>Ch</lname>
+        <email>on@gmail.com</email>
+    </user1>
+    <user2>
+        <fname>John</fname>
+        <lname>Smith</lname>
+        <email>tw@gmail.com</email>
+    </user2>
+    <user3>
+        <fname>Johnny</fname>
+        <lname>Smithhy</lname>
+        <email>th@gmail.com</email>
+    </user3>
+</personData>
